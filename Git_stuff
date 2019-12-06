@@ -1,0 +1,28 @@
+Installation :
+sudo apt-get install git
+--
+git --version
+git config --global user.name "username"
+git config --global user.email "email"
+git config --list
+pwd
+gedit .gitconfig 
+create general directory for github
+go to that dir
+git clone url
+ls
+go to that dir
+--
+file pushing :
+touch program.cpp
+vim or gedit the program
+git status
+git add program.cpp
+git status
+git commit -m "FIle name"
+git push -u origin master
+username
+password
+--
+Check on github
+
